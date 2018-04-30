@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="start" size="6.000000 6.000000" />
+    <ImageTarget name="jordan" size="6.000000 3.684000" />
+    <ImageTarget name="radio_1" size="6.000000 12.000000" />
+    <ImageTarget name="radio" size="6.000000 8.328359" />
+    <ImageTarget name="civilian" size="6.000000 3.000000" />
+    <ImageTarget name="ragging" size="6.000000 6.802817" />
+    <ImageTarget name="grass" size="6.000000 8.706767" />
+    <ImageTarget name="oreo" size="6.000000 3.135000" />
+    <ImageTarget name="spray" size="6.000000 3.375000" />
+    <ImageTarget name="generator" size="6.000000 3.419952" />
+    <ImageTarget name="monkey" size="6.000000 4.503341" />
+    <ImageTarget name="garden" size="6.000000 5.422111" />
+    <ImageTarget name="priyanka" size="6.000000 6.732558" />
+    <ImageTarget name="lh6" size="6.000000 8.784810" />
+    <ImageTarget name="fire" size="6.000000 5.043638" />
+    <ImageTarget name="surveilence" size="6.000000 3.000000" />
+    <ImageTarget name="warning" size="6.000000 4.052006" />
+    <ImageTarget name="ec" size="6.000000 2.712421" />
+    <ImageTarget name="clean" size="6.000000 6.225942" />
+    <ImageTarget name="map" size="6.000000 4.061469" />
+    <ImageTarget name="survey" size="6.000000 1.556356" />
+    <ImageTarget name="ikaya" size="6.000000 9.000000" />
+    <ImageTarget name="off" size="6.000000 5.814978" />
+    <ImageTarget name="clue1" size="6.000000 6.369231" />
+  </Tracking>
+</QCARConfig>
